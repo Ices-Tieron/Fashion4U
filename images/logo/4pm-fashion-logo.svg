@@ -1,0 +1,19 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="60" fill="#1a1a1a" rx="5"/>
+  
+  <!-- 4pm text -->
+  <text x="20" y="25" font-family="'Arial', sans-serif" font-size="18" font-weight="bold" fill="#ff0000">4pm</text>
+  
+  <!-- FASHION text -->
+  <text x="20" y="45" font-family="'Arial', sans-serif" font-size="16" font-weight="normal" fill="#ffffff" letter-spacing="2px">FASHION</text>
+  
+  <!-- Clock icon -->
+  <circle cx="150" cy="30" r="20" stroke="#ff0000" stroke-width="2" fill="none"/>
+  <line x1="150" y1="20" x2="150" y2="30" stroke="#ff0000" stroke-width="2"/>
+  <line x1="150" y1="30" x2="155" y2="35" stroke="#ff0000" stroke-width="2"/>
+  
+  <!-- Small decorative elements -->
+  <circle cx="180" cy="15" r="2" fill="#ff0000"/>
+  <circle cx="180" cy="45" r="2" fill="#ff0000"/>
+</svg>
